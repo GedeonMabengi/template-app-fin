@@ -1,0 +1,20 @@
+﻿3.Une responsive rigoureux
+4.Integration en react
+5.Integration en react native
+6.Integration avec react-router
+7.Integration en angular
+8.Integration en vue.js
+9.ajout animation : slider
+10.scroll-reveal
+
+
+
+Violet foncé:** #374151
+Rose clair:** #F3A4B5
+Couleurs des boutons:** (à ajuster selon vos préférences)
+    * Bleu (Général): #4285F4
+    * Orange (Bills): #F4B400
+    * Vert (Grocery): #4CAF50
+    * Rose (Shopping): #E91E63
+    * Rouge (Entertainment): #C62828
+Texte:** #FFFFFF (blanc)
